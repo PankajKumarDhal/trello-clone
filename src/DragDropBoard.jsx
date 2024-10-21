@@ -9,27 +9,27 @@ const initialData = {
       id: "to-do",
       title: "To Do",
       items: [
-        { id: "1", content: "list actions menu: sort by" },
-        { id: "2", content: "list: edit title" },
-        { id: "3", content: "localStorage: set/get" },
+        { id: "1", content: "Pankaj" },
+        { id: "2", content: "Kumar" },
+        { id: "3", content: "Dhal" },
         { id: "4", content: "css: fix bugs" },
         { id: "5", content: "testing: add tests for reducer fns & utils" },
       ],
     },
     "in-progress": {
-      id: "in-progress",
+      id: "Bangalore",
       title: "In Progress",
-      items: [{ id: "6", content: "list actions menu: copy list" }],
+      items: [{ id: "6", content: "full-stack" }],
     },
     done: {
       id: "done",
       title: "Done",
       items: [
-        { id: "7", content: "show about menu: button" },
+        { id: "7", content: "Pk Dhal" },
         {
           id: "8",
           content:
-            "list actions menu: archive all cards, move all cards to a list, archive list, add card, move list",
+            "move all cards to a list, archive list, add card, move list",
         },
         { id: "9", content: "list: add, remove, move" },
         { id: "10", content: "task: add, edit, remove, move" },
