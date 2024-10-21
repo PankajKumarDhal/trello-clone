@@ -17,19 +17,19 @@ const initialData = {
       ],
     },
     "in-progress": {
-      id: "Bangalore",
+      id: "in-progress",
       title: "In Progress",
-      items: [{ id: "6", content: "full-stack" }],
+      items: [{ id: "6", content: "list actions menu: copy list" }],
     },
     done: {
       id: "done",
       title: "Done",
       items: [
-        { id: "7", content: "Pk Dhal" },
+        { id: "7", content: "show about menu: button" },
         {
           id: "8",
           content:
-            "move all cards to a list, archive list, add card, move list",
+            "list actions menu: archive all cards, move all cards to a list, archive list, add card, move list",
         },
         { id: "9", content: "list: add, remove, move" },
         { id: "10", content: "task: add, edit, remove, move" },
